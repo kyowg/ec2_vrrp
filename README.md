@@ -7,4 +7,4 @@ This Hot Standby HA Architecture Pattern realizes VRRP monitor by Unicast in the
 
 In particular, this design is a useful HA architecture pattern in staging environments of small projects and so on which costs such as E/ALB SaaS need not be paid.
 
-https://kiowg.blogspot.jp/2017/06/hot-standby-ha-architecture-pattern-on.html
+https://kyowg.blogspot.jp/2017/06/hot-standby-ha-architecture-pattern-on.html
